@@ -1,4 +1,4 @@
-The rainbow and the unicorn
+The rainbow and the unicorn and the leprechaun
 
 Purple
 pink
@@ -6,8 +6,10 @@ Orange
 Blue
 Green
 Unicorn
+Leprechaun
 Yellow
 Red
 Indigo
 These are the colors of the rainbow.
 And the Unicorn.
+And the Leprechaun
